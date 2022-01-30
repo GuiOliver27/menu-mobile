@@ -5,7 +5,7 @@ Este é um menu mobile responsivo
 
 ## Iniciando
 
-Inicie o projeto apenas  [clicanco aqui](https://menu-mobile-eight.vercel.app/)
+Inicie o projeto apenas  [clicando aqui](https://menu-mobile-eight.vercel.app/)
 
 
 
